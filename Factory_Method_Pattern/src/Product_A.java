@@ -1,3 +1,4 @@
+//this is our Prduct_A, and we'd be using this as an example to understand the factory method pattern
 public class Product_A implements Product {
     private double price;
     @Override
@@ -6,8 +7,8 @@ public class Product_A implements Product {
     }
 
     @Override
-    public boolean ProductPrice(double price) {
+    public double ProductPrice(double price) {
         this.price = price;
-        return true;
+        return price;
     }
 }
