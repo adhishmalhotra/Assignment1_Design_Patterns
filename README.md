@@ -19,7 +19,7 @@ Authors:
 A. Q1-UML Class Diagram 
 
 https://app.diagrams.net/#G1oJthBwPJKq5dkB_AVIgraCoJfN0n1u_d
-a. Q1 - UML Class Diagram.jpg
+    a. Q1 - UML Class Diagram.jpg
     
 B. Q2-Factory Method Pattern source Code
 
@@ -34,3 +34,7 @@ B. Q2-Factory Method Pattern source Code
     e. Product Factory.java (extends Product_Abstract_Factory)
     
     f. TestFile.java
+
+# Screen Dumps of the Test File
+![image](https://user-images.githubusercontent.com/66443183/134025082-76859d81-5275-44c8-97eb-758322ac0300.png)
+
