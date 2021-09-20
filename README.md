@@ -6,13 +6,14 @@ Group Number: Course_Gp 22
 Due Date: 9/20/21 @ 11:30 PM
 
 Authors: 
+
 	Adhish Malhotra (100761306)
 
 	Aiden Jolley-Ruhn (100745886)
 	 
-        Hima Paul (100753261) 
+	Hima Paul (100753261) 
 	 
-        Shreya Patel (100747036)
+	Shreya Patel (100747036)
          
 # Table of Contents
 A. Q1-UML Class Diagram
