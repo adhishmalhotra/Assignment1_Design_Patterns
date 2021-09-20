@@ -19,7 +19,7 @@ Authors:
 A. Q1-UML Class Diagram 
 
 https://app.diagrams.net/#G1oJthBwPJKq5dkB_AVIgraCoJfN0n1u_d
-    a. Q1 - UML Class Diagram.jpg
+a. Q1 - UML Class Diagram.jpg
     
 B. Q2-Factory Method Pattern source Code
 
